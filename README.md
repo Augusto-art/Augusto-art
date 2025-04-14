@@ -1,21 +1,41 @@
 
-<h1 align="center">Olá! 👋 Eu sou Augusto-art
+<h1 align="center">Olá, dev! 👨‍💻 Eu sou Augusto-art
  </h1>
 
 <div align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="100px" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px">
 </div>
+
+<br>
 
 <div align="center">
-  <p>💻 Estudante de tecnologia</p>
-  <p>🚀 Explorando automação e IA </p>
-  <p>📘 Sempre em busca de aprender algo novo</p>
+  <p>💻 Estudante de tecnologia </p>
+  <p>🚀 Explorando: Inteligência Artificial</p>
+  <p>📘 Atualmente estudando: <strong>PHP</strong></p>
 </div>
 
-<hr>
+<br>
 
-<div align="center">
-  <h3>📫 Contato</h3>
-  <a href="mailto:seuemail@example.com">augusto.cesar@estudante.ifgoiano.edu.br</a>
+<h2>🛠️ Tecnologias que estou usando/estudando:</h2>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40px" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40px" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40px" title="Arduino"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px" title="Linux"/>
 </div>
 
+<br>
+
+<h2>📫 Fale comigo:</h2>
+
+<div align="left">
+  <a href="mailto:seuemail@example.com">
+    <img src="https://img.shields.io/badge/Email-augusto.cesar@estudante.ifgoiano.edu.br-red?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+---
+
+💡 *Obrigado por visitar meu perfil! Volte sempre 😄*
