@@ -30,7 +30,7 @@
 
 <div align="left">
   <a href="mailto:seuemail@example.com">
-    <img src="https://img.shields.io/badge/Email-augusto.cesar@estudante.ifgoiano.edu.br-red?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-augustocesaranjos91-red?style=flat&logo=gmail&logoColor=white" />
   </a>
 </div>
 
